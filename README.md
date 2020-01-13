@@ -1,6 +1,13 @@
 # learning-2020
 2020년 공부 계획 및 기록. 배움은 끝이 없고 나중은 다시 오지 않는다. 2020년 말에는 한 해동안 내가 무엇을 공부했는지 한 눈에 알 수 있을테지. 연간으로 쌓인다면 5년, 10년 후 좋은 기록으로 남을 것이다. 가급적 발표 자료로 만들어 랩 세미나에서 공유하고 개선하여 개인 웹 사이트 또는 이 레포지토리의 위키에 정리한다.
 
+# Log
+
+| Start | End | Subject | Link |
+|:----:|:----:|:-------:|:-----:|
+| 2020-01-13 | ONGING | Crypto Handling in go | [crypto-go repo](https://github.com/yoseplee/crypto-go) |
+
+
 # TO STUDY
 ## Blockchain
 > 연구실의 연구 목표와 가능한 일치시키는 것이 중요함! 자칫 더블로 고통스러울 수 있다...!
@@ -22,6 +29,7 @@
 ## Programming Language
 > 깊게 이해하기 위해서는 지식이 필요하다! 어느정도 잘 쓴다면 이젠 지식을 넣을 때임
 * golang
+    * crypto handling(Hash, Asymmetric Key)
     * Slice/Map 등 자료구조의 내부 구조 및 동작 원리 파악하기
     * 동시성 프로그래밍
     * 네트워크 프로그래밍
