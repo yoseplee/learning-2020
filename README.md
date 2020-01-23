@@ -5,7 +5,9 @@
 
 | Start | End | Subject | Link |
 |:----:|:----:|:-------:|:-----:|
-| 2020-01-13 | ONGING | Crypto Handling in go | [crypto-go repo](https://github.com/yoseplee/crypto-go) |
+| 2020-01-13 | 2020-01-15 | Crypto Handling in go | [crypto-go repo](https://github.com/yoseplee/crypto-go) |
+| 2020-01-16 | 2020-01-23 | VRF(Verifiable Random Function) concept | TBA |
+| 2020-01-24 | ONGING | Concept of cryptographic sortition | TBA |
 
 
 # TO STUDY
@@ -16,7 +18,7 @@
     * v1.1.에서 v.1.4.로 업데이트하기(예전에 했었는데 기록이 없다...)
 * R3 Corda 분석하고 다른 플랫폼과 비교하기
 * simple blockchain 구현을 위한 공부
-    * gRPC
+    * gRPC 
     * protobuf
     * [book]programming bitcoin
 * Consensus Protocol
@@ -25,11 +27,16 @@
     * RAFT
     * PBFT
     * FLP Impossibility
+* VRF(Verifiable Random Function)
+    * ~~Concept~~
+    * Handling
+* Cryptographic Sortition
+    * Cryptographic Sortition using VRF
 
 ## Programming Language
 > 깊게 이해하기 위해서는 지식이 필요하다! 어느정도 잘 쓴다면 이젠 지식을 넣을 때임
 * golang
-    * crypto handling(Hash, Asymmetric Key)
+    * ~~crypto handling(Hash, Asymmetric Key)~~
     * Slice/Map 등 자료구조의 내부 구조 및 동작 원리 파악하기
     * 동시성 프로그래밍
     * 네트워크 프로그래밍
