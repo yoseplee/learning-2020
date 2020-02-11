@@ -7,7 +7,12 @@
 |:----:|:----:|:-------:|:-----:|
 | 2020-01-13 | 2020-01-15 | Crypto Handling in go | [crypto-go repo](https://github.com/yoseplee/crypto-go) |
 | 2020-01-16 | 2020-01-23 | VRF(Verifiable Random Function) concept | TBA |
-| 2020-01-24 | ONGING | Concept of cryptographic sortition | TBA |
+| 2020-01-24 | 2020-02-06 | Concept of cryptographic sortition | TBA |
+| 2020-02-07 | TBU | Understanding of Finite Field and ECC(Elliptic Curve Cryptography) |  |
+|  |  | VRF Handling with go |  |
+|  |  | Analyzing Algorand's cryptographic sortition |  |
+|  |  | Concept of RPC(Remote Procedure Call) |  |
+|  |  | Using gRPC with go |  |
 
 
 # TO STUDY
@@ -16,6 +21,7 @@
 * Hyperledger Fabric v1.4. 돌아보기
     * v1.4.에서 네트워크 구성하기(a to z)
     * v1.1.에서 v.1.4.로 업데이트하기(예전에 했었는데 기록이 없다...)
+    * v2.0. 릴리즈에 따른 업데이트하기
 * R3 Corda 분석하고 다른 플랫폼과 비교하기
 * simple blockchain 구현을 위한 공부
     * gRPC 
@@ -27,6 +33,7 @@
     * RAFT
     * PBFT
     * FLP Impossibility
+* ECC(Elliptic Curve Cryptogrphy)
 * VRF(Verifiable Random Function)
     * ~~Concept~~
     * Handling
