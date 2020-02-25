@@ -6,11 +6,13 @@
 | Start | End | Subject | Link |
 |:----:|:----:|:-------:|:-----:|
 | 2020-01-13 | 2020-01-15 | Crypto Handling in go | [crypto-go repo](https://github.com/yoseplee/crypto-go) |
-| 2020-01-16 | 2020-01-23 | VRF(Verifiable Random Function) concept | TBA |
-| 2020-01-24 | 2020-02-06 | Concept of cryptographic sortition | TBA |
-| 2020-02-07 | TBU | Understanding of Finite Field and ECC(Elliptic Curve Cryptography) |  |
-|  |  | VRF Handling with go |  |
+| 2020-01-16 | 2020-01-23 | VRF(Verifiable Random Function) concept | [vrf-go repo](https://github.com/yoseplee/vrf-go) |
+| 2020-01-24 | 2020-02-06 | Concept of cryptographic sortition | [vrf-go repo](https://github.com/yoseplee/vrf-go) |
+| 2020-02-07 | 2020-02-17 | VRF Handling with go | [vrf-go repo](https://github.com/yoseplee/vrf-go) |
+| 2020-02-13 | ONGING | Explaining concept of Hyperledger Fabric | team-private |
+| 2020-02-18 | 2020-02-25 | Implementation of simple cryptographic sortition | [vrf-go repo](https://github.com/yoseplee/vrf-go) |
 |  |  | Analyzing Algorand's cryptographic sortition |  |
+|  |  | Understanding of Finite Field and ECC(Elliptic Curve Cryptography) |  |
 |  |  | Concept of RPC(Remote Procedure Call) |  |
 |  |  | Using gRPC with go |  |
 
@@ -36,9 +38,9 @@
 * ECC(Elliptic Curve Cryptogrphy)
 * VRF(Verifiable Random Function)
     * ~~Concept~~
-    * Handling
-* Cryptographic Sortition
-    * Cryptographic Sortition using VRF
+    * ~~Handling~~
+* ~~Cryptographic Sortition~~
+    * ~~Cryptographic Sortition using VRF~~
 
 ## Programming Language
 > 깊게 이해하기 위해서는 지식이 필요하다! 어느정도 잘 쓴다면 이젠 지식을 넣을 때임
