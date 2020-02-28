@@ -1,5 +1,5 @@
 # learning-2020
-2020년 공부 계획 및 기록. 배움은 끝이 없고 나중은 다시 오지 않는다. 2020년 말에는 한 해동안 내가 무엇을 공부했는지 한 눈에 알 수 있을테지. 연간으로 쌓인다면 5년, 10년 후 좋은 기록으로 남을 것이다. 가급적 발표 자료로 만들어 랩 세미나에서 공유하고 개선하여 개인 웹 사이트 또는 이 레포지토리의 위키에 정리한다.
+2020년 공부 계획 및 기록. 배움은 끝이 없고 나중은 다시 오지 않는다. 2020년 말에는 한 해동안 내가 무엇을 공부했는지 한 눈에 알 수 있을테지. 연간으로 쌓인다면 5년, 10년 후 좋은 기록으로 남을 것이다. 가급적 발표 자료로 만들어 랩 세미나에서 공유하고 개선하여 개인 웹 사이트 또는 이 레포지토리의 위키에 정리한다. (개인 홈페이지는 랜딩 페이지로만, 포스트는 미디엄을 이용하기로 잠정 결론지었음)
 
 # Log
 
@@ -10,8 +10,8 @@
 | 2020-01-24 | 2020-02-06 | Concept of cryptographic sortition | [vrf-go repo](https://github.com/yoseplee/vrf-go) |
 | 2020-02-07 | 2020-02-17 | VRF Handling with go | [vrf-go repo](https://github.com/yoseplee/vrf-go) |
 | 2020-02-13 | ONGING | Explaining concept of Hyperledger Fabric | team-private |
-| 2020-02-18 | 2020-02-25 | Implementation of simple cryptographic sortition | [vrf-go repo](https://github.com/yoseplee/vrf-go) |
-|  |  | Analyzing Algorand's cryptographic sortition |  |
+| 2020-02-18 | 2020-02-28 | Implementation of simple cryptographic sortition | [vrf-go repo](https://github.com/yoseplee/vrf-go#3-result) |
+| 2020-02-28 |  | Analyzing Algorand's cryptographic sortition | TBU - considering medium for posting |
 |  |  | Understanding of Finite Field and ECC(Elliptic Curve Cryptography) |  |
 |  |  | Concept of RPC(Remote Procedure Call) |  |
 |  |  | Using gRPC with go |  |
@@ -36,7 +36,7 @@
     * PBFT
     * FLP Impossibility
 * ECC(Elliptic Curve Cryptogrphy)
-* VRF(Verifiable Random Function)
+* ~~VRF(Verifiable Random Function)~~
     * ~~Concept~~
     * ~~Handling~~
 * ~~Cryptographic Sortition~~
